@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "tell-story": "npm start",
+    "test": "jest"
+  },
+  "author": "TimBryanDev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
